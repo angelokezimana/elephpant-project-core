@@ -1,6 +1,5 @@
 {
-    "name": "angelokezimana/elephpant-project",
-    "type": "project",
+    "name": "angelokezimana/elephpant-project-core",
     "description": "The PHP MVC Framework",
     "authors": [
         {
