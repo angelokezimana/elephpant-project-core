@@ -1,6 +1,8 @@
 {
     "name": "angelokezimana/elephpant-project-core",
+    "type": "library",
     "description": "The PHP MVC Framework",
+    "license": "MIT",
     "authors": [
         {
             "name": "Kezimana Aimé Angelo",
@@ -12,5 +14,7 @@
             "angelokezimana\\elephpant\\": "."
         }
     },
-    "require": {}
+    "require": {
+        "php": "^7.4 || ^8.0"
+    }
 }
